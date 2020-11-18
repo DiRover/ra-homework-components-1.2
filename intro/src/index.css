@@ -5,22 +5,3 @@ body {
   background-color: antiquewhite;
 }
 
-.menu-open {
-  width: 200px;
-  margin: auto;
-  border: 1px, solid, gray;
-}
-
-ul {
-  list-style-type: none;
-  text-align: center;  
-};
-
-li {
-}
-
-a {
-  margin-top: 5px;
-  text-decoration: none;
-  color: darksalmon;
-};
